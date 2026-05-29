@@ -1,1 +1,1 @@
-it help desk ai agent woth gemini apis
+it help desk ai agent with gemini apis
